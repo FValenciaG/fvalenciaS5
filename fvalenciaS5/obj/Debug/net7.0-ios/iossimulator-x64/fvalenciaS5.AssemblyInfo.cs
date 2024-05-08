@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fvalenciaS5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c95ededc0499b48e91950103a4df993a4573638d")]
 [assembly: System.Reflection.AssemblyProductAttribute("fvalenciaS5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fvalenciaS5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
